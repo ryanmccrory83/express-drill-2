@@ -1,0 +1,18 @@
+{
+  "name": "express-drill-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-csv-to-json": "0.0.13",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
